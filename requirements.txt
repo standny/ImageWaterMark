@@ -1,0 +1,14 @@
+cycler==0.10.0
+matplotlib==2.1.1
+numpy==1.14.0
+opencv-python==3.4.0.12
+Pillow==5.0.0
+progressbar2==3.34.3
+pyparsing==2.2.0
+python-dateutil==2.6.1
+python-utils==2.2.0
+pytz==2017.3
+qrcode==5.3
+qreader==0.1
+reedsolo==0.3
+six==1.11.0
